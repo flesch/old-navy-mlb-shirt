@@ -1,0 +1,17 @@
+{
+  "name": "old-navy-mlb-shirt",
+  "version": "1.0.0",
+  "description": "Trigger an IFTTT notification if the price of my favorite shirt changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Flesch <john@fles.ch> (https://fles.ch)",
+  "license": "MIT",
+  "dependencies": {
+    "gists": "^2.0.0",
+    "node-ifttt-maker": "^1.0.2",
+    "puppeteer": "^1.7.0"
+  }
+}
